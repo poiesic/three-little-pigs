@@ -1,0 +1,13 @@
+---
+title: three-little-pigs
+author: "Kevin Smith"
+---
+book:
+  base_dir: "scenes"
+  chapters:
+  - scenes:
+    - brad-house
+  - scenes:
+    - terence-house
+  - scenes:
+    - susan-house

@@ -1,0 +1,33 @@
+---
+name: "Kevin"
+age: "53"
+location: "Piglet Pines"
+occupation: "Unemployed"
+
+role: |
+  Troublemaker and all around cad. Also goes by The Big Bad Wolf
+
+background: |
+  He left his pack when he became convinced they were holding him back. He has a huge ego
+  and truly believes he could be the first lupine professional MMA fighter.
+
+goal: "To become the first wolf to fight professionally in the MMA"
+
+values:
+- strength
+- resilience
+- tenacity
+
+personality: |
+  Has a huge ego and a mouth to match
+
+habits:
+- Flexes his muscles when he tries to intimidate the pigs
+- Likes to talk about MMA fighting
+
+relationships:
+  brad: enemy
+  susan: enemy
+  terence: enemy
+---
+

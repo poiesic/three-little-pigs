@@ -1,0 +1,33 @@
+---
+name: "Brad"
+age: "31"
+location: "Piglet Pines"
+occupation: "Straw farmer"
+
+role: |
+  Youngest of the three little pig siblings. He's a proud entrepreneur
+  and promotes renewable construction materials.
+
+background: |
+  Very laidback and freewheeling as a kid. Still not that serious as an adult.
+
+goal: "Avoid Kevin the Wolf"
+
+values:
+- Vibes
+- Friendship
+- Renewable construction materials
+
+personality: |
+  Quintessential surfer dude
+
+habits:
+- Calls everyone bro or bruh
+
+relationships:
+  terence: "older brother"
+  susan: "older sister"
+  kevin: "feared enemy"
+---
+
+

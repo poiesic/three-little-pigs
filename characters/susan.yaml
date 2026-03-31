@@ -1,0 +1,31 @@
+---
+name: "Susan"
+age: "38"
+location: "Piglet Pines"
+occupation: "Bricklayer"
+
+role: |
+  Eldest of the little pig siblings she's the constant voice of reason in the family
+
+background: |
+  Very serious and dour from years of getting her younger brothers out of scrapes
+
+goal: "Keep her family safe"
+
+values:
+- logic
+- reason
+- family
+
+personality: |
+  Gruff on the outside, she's a soft teddy bear on the inside
+
+habits:
+- Facepalms whenever she's annoyed
+
+relationships:
+  brad: "older sister"
+  terence: "older sister"
+  kevin: "sworn enemy"
+---
+

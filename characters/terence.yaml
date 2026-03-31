@@ -1,0 +1,33 @@
+---
+name: "Terence"
+age: "33"
+location: "Piglet Pines"
+occupation: "Artisanal stick curator"
+
+role: |
+  Runs a bespoke Etsy shop offering a wide variety of high quality sticks he
+  personally curates
+
+background: |
+  The middle sibling, Terence has always gone his own way. Headstrong and independent, he doesn't listen
+  to his sister as much as he should.
+
+goal: "Provide the world with high quality sticks"
+
+values:
+- authenticity
+- honesty
+
+personality: |
+  A bit of a snob, Terence has spent too much time curating sticks and doesn't understand why sticks
+  aren't important to everyone.
+
+habits:
+- Tries to turn everything into a stick metaphor
+
+relationships:
+  brad: "older brother"
+  susan: "younger brother"
+  kevin: "ambivalent acquaintance"
+---
+

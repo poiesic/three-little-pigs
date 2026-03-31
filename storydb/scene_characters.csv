@@ -1,0 +1,13 @@
+scene,character,role,indexed_at
+brad-house,brad,pov,2026-03-31T16:48:00Z
+brad-house,kevin,present,2026-03-31T16:48:00Z
+brad-house,susan,mentioned,2026-03-31T16:48:00Z
+brad-house,terence,mentioned,2026-03-31T16:48:00Z
+terence-house,terence,pov,2026-03-31T16:48:44Z
+terence-house,brad,present,2026-03-31T16:48:44Z
+terence-house,kevin,present,2026-03-31T16:48:44Z
+terence-house,susan,mentioned,2026-03-31T16:48:44Z
+susan-house,susan,pov,2026-03-31T16:49:38Z
+susan-house,brad,present,2026-03-31T16:49:38Z
+susan-house,terence,present,2026-03-31T16:49:38Z
+susan-house,kevin,present,2026-03-31T16:49:38Z
